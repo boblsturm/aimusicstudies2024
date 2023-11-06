@@ -1,4 +1,4 @@
-# The First International Conference in AI Music Studies 2024 (Stockholm, Sweden, November 2024)
+# The First International Conference in AI Music Studies (Stockholm, Sweden, November 2024)
 
 ## Prospects, Challenges and Methodologies of Studying AI Music in the Humanities
 
