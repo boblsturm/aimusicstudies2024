@@ -49,3 +49,7 @@ TBA
 - Ken Déguernel (Univ. Lille, CNRS)
 - Jonathan Sterne (University of McGill)
 - Thomas Hodgson (University of California, Los Angeles)
+
+# Funding
+Financial support for *The First International Conference in AI Music Studies* comes from 
+ERC-2019-COG No. 864189 MUSAiC: [Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com/)
