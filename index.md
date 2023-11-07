@@ -45,7 +45,7 @@ TBA
 - Ollie Bown (UNSW Sydney)
 - Oded Ben-Tal (Kingston University)
 - Nick Collins (Durham University)
-- Rujing Huang (Hong Kong University)
+- Rujing Stacy Huang (The University of Hong Kong)
 - Ken Déguernel (Univ. Lille, CNRS)
 - Jonathan Sterne (University of McGill)
 - Thomas Hodgson (University of California, Los Angeles)
