@@ -40,14 +40,16 @@ TBA
 - Bob L. T. Sturm (KTH, Stockholm), chair
 - Elin Kanhov (KTH, Stockholm)
 - André Holzapfel (KTH, Stockholm)
+
+## Steering Committee
 - Georgina Born (University College London)
 - Eric Drott (University of Texas)
+- Jonathan Sterne (University of McGill)
 - Ollie Bown (UNSW Sydney)
 - Oded Ben-Tal (Kingston University)
 - Nick Collins (Durham University)
 - Rujing Stacy Huang (The University of Hong Kong)
 - Ken Déguernel (Univ. Lille, CNRS)
-- Jonathan Sterne (University of McGill)
 - Thomas Hodgson (University of California, Los Angeles)
 
 # Funding
