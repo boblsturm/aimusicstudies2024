@@ -46,6 +46,7 @@ TBA
 - Eric Drott (University of Texas)
 - Jonathan Sterne (University of McGill)
 - Ollie Bown (UNSW Sydney)
+- Toivo Burlin (Stockholm University)
 - Oded Ben-Tal (Kingston University)
 - Nick Collins (Durham University)
 - Rujing Stacy Huang (The University of Hong Kong)
