@@ -13,6 +13,7 @@ This motivates several key questions for critical analysis:
 1. What are the prospects and challenges for the new "AI Music Studies"?
 2. What is needed in terms of new methodologies for this area of study?
 3. Which interdisciplinary connections are required?
+4. How are copyright, and intellectual property more generally, being challenged by the emergent music ecosystem being populated by AI music?
 
 *The First International Conference in AI Music Studies 2024* explores the prospects, 
 challenges and new methodologies required for the study of AI music within the Humanities. 
