@@ -1,4 +1,4 @@
-# The First International Conference in AI Music Studies (Stockholm, Sweden, November 2024)
+# The First International Conference in AI Music Studies December 3-5 2024 Stockholm, Sweden
 
 ## Prospects, Challenges and Methodologies of Studying AI Music in the Humanities
 
@@ -21,6 +21,10 @@ It aims to bring together into conversation scholars working in many domains,
 including music computing, musicology, ethnomusicology, sound studies, science and technology studies, 
 philosophy, ethics, economics, feminist and posthumanist studies. 
 
+## Keynote Speaker
+We are excited to announce that the keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
+<img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="MarineGEO circle logo" style="height: 300px"/>
+
 ## Call for papers
 We seek the submission of abstracts of no more than 300 words for consideration.
 Authors of selected abstracts will have 30 minutes to present and discuss 
@@ -32,7 +36,7 @@ More information: please email bobs@kth.se
 ## Dates
 More information coming soon
 - Abstract submission deadline: March 2024
-- Conference dates: November 2024
+- Notification of acceptance: April 2024
 
 ## Conference fee 
 TBA
