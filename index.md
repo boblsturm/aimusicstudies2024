@@ -22,8 +22,9 @@ including music computing, musicology, ethnomusicology, sound studies, science a
 philosophy, ethics, economics, feminist and posthumanist studies. 
 
 ## Keynote Speaker
-We are excited to announce that the keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="MarineGEO circle logo" style="height: 300px"/>
+
+We are excited to announce that the keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
 
 ## Call for papers
 We seek the submission of abstracts of no more than 300 words for consideration.
