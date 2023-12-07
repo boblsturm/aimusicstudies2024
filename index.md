@@ -1,5 +1,5 @@
 # The First International Conference in AI Music Studies 
-## December 3-5 2024 Stockholm, Sweden
+## December 10-12 2024 Stockholm, Sweden
 
 <img src="https://i0.wp.com/www.kth.se/blogs/studentblog/files/2021/01/20210129_100335.jpg?w=1200&ssl=1" alt="KTH in the snow" style="width: 700px"/>
 
