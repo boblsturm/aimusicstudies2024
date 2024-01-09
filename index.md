@@ -22,8 +22,7 @@ This motivates several key questions for critical analysis:
 *The First International Conference in AI Music Studies 2024* explores the prospects, 
 challenges and new methodologies required for the study of AI music within the Humanities. 
 It aims to bring together into conversation scholars working in many domains,
-including music computing, musicology, ethnomusicology, sound studies, science and technology studies, 
-philosophy, ethics, economics, feminist and posthumanist studies. 
+including music computing, musicology, ethnomusicology, sound studies, science and technology studies, philosophy, ethics, economics, feminist and posthumanist studies. 
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
