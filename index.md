@@ -23,6 +23,7 @@ This motivates several key questions for critical analysis:
 challenges and new methodologies required for the study of AI music within the Humanities. 
 It aims to bring together into conversation scholars working in many domains,
 including music computing, musicology, ethnomusicology, sound studies, science and technology studies, philosophy, ethics, economics, feminist and posthumanist studies. 
+Further motivation for this conference comes from Sturm, Bob L. T., Ken Déguernel, Rujing S. Huang, André Holzapfel, Oliver Bown, Nick Collins, Jonathan Sterne, et al. 2024. “[Musaicology: AI Music and the Need for a New Kind of Music Studies](https://doi.org/10.31235/osf.io/9pz4x).” SocArXiv. 
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
