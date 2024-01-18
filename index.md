@@ -11,13 +11,13 @@ is now part of the established music ecosystem, and is attracting significant su
 from major private companies. Yet it remains by and large free of critical examination and reflection, 
 perhaps with the exception of ethics (e.g., responsible use) and intellectual property (e.g., legal ownership).
 This motivates several key questions for critical analysis:
-1. How can the AI music ecosystem and its components be formally studied? 
-2. What challenges arise in the application of established disciplines, such as musicology? 
-3. What considerations must be made to make sense of the emerging AI music ecosystem?
-1. What are the prospects and challenges for the new "AI Music Studies"?
-2. What is needed in terms of new methodologies for this area of study?
-3. Which interdisciplinary connections are required?
-4. How are copyright, and intellectual property more generally, being challenged by the emergent music ecosystem being populated by AI music?
+1. How can the AI music ecosystem and its components be formally studied, and what considerations must be made to make sense of it?
+2. What challenges arise in the application of established disciplines, such as musicology?
+3. What are the prospects and challenges for AI Music Studies for the Humanities and Social Sciences in general?
+4. What is needed in terms of new methodologies for this area of study, and what interdisciplinary connections are required?
+5. How are copyright, and intellectual property more generally, being challenged by the emergent music ecosystem being populated by AI music?
+6. What are the implications of AI Music in terms of economic, environmental and sociocultural sustainability?
+
 
 *The First International Conference in AI Music Studies 2024* explores the prospects, 
 challenges and new methodologies required for the study of AI music within the Humanities. 
