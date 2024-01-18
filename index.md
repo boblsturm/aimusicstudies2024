@@ -20,10 +20,10 @@ This motivates several key questions for critical analysis:
 
 
 *The First International Conference in AI Music Studies 2024* explores the prospects, 
-challenges and new methodologies required for the study of AI music within the Humanities. 
+challenges and new methodologies required for the study of AI music within the Humanities and Social Sciences. 
 It aims to bring together into conversation scholars working in many domains,
 including music computing, musicology, ethnomusicology, sound studies, science and technology studies, philosophy, ethics, economics, feminist and posthumanist studies. 
-Further motivation for this conference comes from B. L. T. Sturm, K. Déguernel, R. S. Huang, A. Holzapfel, O. Bown, N. Collins, J. Sterne, L. Cros Vila, L. Casini, D. Alberto Cabrera, E. A. Drott, and O. Ben-Tal, “[MusAIcology: AI Music and the Need for a New Kind of Music Studies](https://doi.org/10.31235/osf.io/9pz4x).” SocArXiv, 2024. 
+Further motivation for this conference comes from: B. L. T. Sturm, K. Déguernel, R. S. Huang, A. Holzapfel, O. Bown, N. Collins, J. Sterne, L. Cros Vila, L. Casini, D. Alberto Cabrera, E. A. Drott, and O. Ben-Tal, “[MusAIcology: AI Music and the Need for a New Kind of Music Studies](https://doi.org/10.31235/osf.io/9pz4x).” SocArXiv, 2024. 
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
