@@ -3,6 +3,10 @@
 
 <img src="https://i0.wp.com/www.kth.se/blogs/studentblog/files/2021/01/20210129_100335.jpg?w=1200&ssl=1" alt="KTH in the snow" style="width: 700px"/>
 
+Financial support for the conference comes from 
+1. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
+2. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
+3. ERC-2021-ADV No. 101019164 [MUSAI: Music & Artificial Intelligence Building Critical Interdisciplinary Studies](https://musicairesearch.wordpress.com)
 
 ## Prospects, Challenges and Methodologies of Studying AI Music in the Humanities and Social Sciences
 
@@ -59,8 +63,3 @@ The conference registration fee, and the exact location, have yet to be decided.
 - Jonathan Sterne (University of McGill, Canada)
 - Rujing Stacy Huang (The University of Hong Kong, Hong Kong)
 - Ollie Bown (UNSW Sydney, Australia)
-
-
-# Funding
-Financial support for *The First International Conference in AI Music Studies* comes from 
-ERC-2019-COG No. 864189 MUSAiC: [Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com/)
