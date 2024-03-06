@@ -23,7 +23,6 @@ challenges and new methodologies required for the study of AI music within the H
 Financial support for the conference comes from:
 1. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
 2. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
-3. ERC-2021-ADV No. 101019164 [MUSAI: Music & Artificial Intelligence Building Critical Interdisciplinary Studies](https://musicairesearch.wordpress.com)
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
