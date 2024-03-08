@@ -45,20 +45,21 @@ TBD
 The conference registration fee, and the exact location, have yet to be decided. Please see the conference website for the most current information https://boblsturm.github.io/aimusicstudies2024. Please send questions or comments to aimusicstudies2024@kth.se.
 
 ## Organising Committee
-- Bob L. T. Sturm (KTH, Stockholm), chair
-- Elin Kanhov (KTH, Stockholm)
-- André Holzapfel (KTH, Stockholm)
+- [Bob L. T. Sturm](https://www.kth.se/profile/bobs) (KTH, Stockholm), chair
+- [Elin Kanhov](https://www.kth.se/profile/ekanhov) (KTH, Stockholm)
+- [André Holzapfel](https://www.kth.se/profile/holzap) (KTH, Stockholm)
 
 ## Steering Committee
-- Toivo Burlin (Stockholm University)
-- Jan-Olof Gullö (KMH, Stockholm)
-- Hans Lindetorp (KMH, Stockholm)
-- Georgina Born (University College London, UK)
-- Oded Ben-Tal (Kingston University, UK)’
-- Nick Collins (Durham University, UK)
-- Ken Déguernel (Univ. Lille, CNRS, France)
-- Eric Drott (University of Texas, USA)
-- Thomas Hodgson (University of California, Los Angeles, USA)
-- Jonathan Sterne (University of McGill, Canada)
-- Rujing Stacy Huang (The University of Hong Kong, Hong Kong)
-- Ollie Bown (UNSW Sydney, Australia)
+- [Toivo Burlin](https://www.su.se/profiles/tobu0831-1.196072) (Stockholm University)
+- [Jan-Olof Gullö](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=Jan-Olof+Gull%C3%B6&id=400.51f5bb6415ecf8601e7dd9f4) (KMH, Stockholm)
+- [Hans Lindetorp](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=&id=400.51f5bb6415ecf8601e7dd9bc) (KMH, Stockholm)
+- [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born) (University College London, UK)
+- [Oded Ben-Tal](https://www.kingston.ac.uk/staff/profile/dr-oded-ben-tal-592/) (Kingston University, UK)’
+- [Nick Collins](https://www.durham.ac.uk/staff/nick-collins/) (Durham University, UK)
+- [Ken Déguernel](https://deguernel.discordia.fr/) (Univ. Lille, CNRS, France)
+- [Martin Clancy](https://martinclancy.eu) (Centre for Digital Humanities, Trinity College Dublin, Ireland)
+- [Eric Drott](https://music.utexas.edu/about/people/eric-drott) (University of Texas, USA)
+- [Thomas Hodgson](https://schoolofmusic.ucla.edu/people/thomas-hodgson/) (University of California, Los Angeles, USA)
+- [Jonathan Sterne](https://www.mcgill.ca/ahcs/people-contacts/faculty/sterne) (University of McGill, Canada)
+- [Rujing Stacy Huang](https://www.rujingstacyhuang.com/) (The University of Hong Kong, Hong Kong)
+- [Ollie Bown](https://www.unsw.edu.au/staff/oliver-bown) (UNSW Sydney, Australia)
