@@ -21,8 +21,9 @@ is now part of established music ecosystems. While only a few years ago such mus
 challenges and new methodologies required for the study of AI music within the Humanities and Social Sciences. It aims to bring into conversation scholars working in music computing, musicology, ethnomusicology, sound studies, science and technology studies, philosophy, ethics, economics, feminist and posthumanist studies to help define and develop, or even challenge the need for, a discipline of AI music studies. Further motivation for this conference comes from: B. L. T. Sturm, K. Déguernel, R. S. Huang, A. Holzapfel, O. Bown, N. Collins, J. Sterne, L. Cros Vila, L. Casini, D. Alberto Cabrera, E. A. Drott, and O. Ben-Tal, “[MusAIcology: AI Music and the Need for a New Kind of Music Studies](https://doi.org/10.31235/osf.io/9pz4x).” SocArXiv, 2024. 
 
 Financial support for the conference comes from:
-1. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
-2. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
+1. [Riksbankens Jubileumsfond](https://www.rj.se)
+2. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
+3. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
