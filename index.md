@@ -1,5 +1,6 @@
 # The First International Conference in AI Music Studies 
 ## December 10-12 2024 Stockholm, Sweden
+## Location: [Stallet](https://www.stallet.st/en) Stallgatan 7, Stockholm (T) Kungsträdgården
 
 <img src="https://i0.wp.com/www.kth.se/blogs/studentblog/files/2021/01/20210129_100335.jpg?w=1200&ssl=1" alt="KTH in the snow" style="width: 700px"/>
 
@@ -28,22 +29,47 @@ Financial support for the conference comes from:
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
 
-We are excited to announce that the keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
+The keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
 
-## Call for presentations, panels and workshops
-We are seeking presentations, panels and workshops for the conference. Each presentation will be given 20 minutes in a session, and each session will conclude with a podium discussion of its presented works. Each panel will have 3-5 participants, and last at least 60 minutes with audience discussion. A workshop consists of two hours of directed work and discussion around a topic. To submit a presentation, please write an abstract of no more than 300 words about your work and how it relates to the core themes of the conference. For panels, please write a description of the topics to be discussed and composition of the panel. For workshops, please write a description of the topics to be worked with, a schedule, and information on the workshop leaders. Email these to aimusicstudies2024@kth.se by the date below.
+## Schedule
+<img width="757" alt="AIMS2024" src="https://github.com/boblsturm/aimusicstudies2024/assets/10271332/2940e3f2-fb21-48f3-b7fc-29556eac41c1">
 
-## Dates
-- Presentation/Panel/Workshop Submission: March 28 2024
-- Decision Notification: April 26 2024
-- Early Conference Registration: August 30 2024
-- Conference: December 10-12 2024
 
-## Conference fee 
-TBD
+## Accepted papers
+Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
+Enongo Lumumba-Kasongo: Blacksound and AI: Exploring Hip-Hop Technofutures
+Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
+Calvin Peck:	AI, Copyright Law, and Musical Modernism’s Authorial Collapse
+Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
+Veronika Muchitsch:	“I Wanna Be Software”. Methodological and theoretical considerations of AI voice software in popular music
+Marilia Santos, Ivan Simurra:	Music, Humans, and Machines: Reflections on Collaborative Processes Between Humans and Machines for Artistic and Cultural Interventions with Brazilian Music
+Artemi-Maria Gioti:	The Musical Aesthetics of Machine Learning
+Kate Mancey:	“Feels Icky”: Analysing vernacular understanding of music-AI through The Beatles’ “Now and Then”
+Liam Pram, Fabio Morreale:	Accessing Musical Creativity: Embedded Ideologies in Generative-AI Music Tools
+Oliver Bown:	Computational Creativity Meets the Commercial Creative AI Revolution
+Nicola Privato:	AI Hauntology and the Hauntographic Method
+Emily Hansell Clark:	How AI Hears Musical Difference: A Critical Epistemological Approach to AI-Generated “Traditional” and “World” Music
+Yiren Zhao:	Rethinking “authenticity” in AI-generated metal music: A musicological perspective
+Craig Vear, Fabrizio Poltronieri:	Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity.
+Steve Benford, Marco Amerotti, Bob L. T. Sturm and Craig Vear: Performing with AI as a Practice-led Methodology for AI Music
+Alex Rehding:	J.S. Bach, Musicology/Music Theory, and AI: Convergences and Divergences Between Disciplines
+G Douglas Barrett:	The Last Invention: AI and Recursion in Yasunao Tone’s AI Deviation
+Ravi Krishnaswami and Michael Clemens:	Building My Replacement: Experimental Methods in Evaluating Generative Music Systems
+Michèle Duguay and Johanna Devaney:	Representations of Gender and Voice in Music Language Models and Datasets: A Critical Examination of the Gender Binary in MusicLM and MusicCaps
+Alexandra Huang-Kokina:	Artificial ‘Emotional’ Intelligence: AI perspectives on multimodal emotional transmediation in contemporary science-fiction opera
+Nico Daleman:	Sound Art Installation and Artificial Intelligence
+Ritwik Banerji:	Breaking the Monolith of Performative Humanness
+Matthew Blackmar:	Vocal Deepfakes and The New Rhetorical Strategies of The Online Copyright Debate: "Clean" Data, Content "Creators," and Popular-Music Participatory Cultures in The Era of AI
+Mattia Merlini:	From AI to 4E: A Reflective Turn in Musicology to Overcome Dualist, Romantic and Cognitivist Prejudices
+Qianyi Sun and Claire Arthur:	An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics
+Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
+Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
+
+## Conference registration
+Coming soon
 
 ## Other information
-The conference registration fee, and the exact location, have yet to be decided. Please see the conference website for the most current information https://boblsturm.github.io/aimusicstudies2024. Please send questions or comments to aimusicstudies2024@kth.se.
+Please send questions or comments to aimusicstudies2024@kth.se.
 
 ## Organising Committee
 - [Bob L. T. Sturm](https://www.kth.se/profile/bobs) (KTH, Stockholm), chair
@@ -64,3 +90,12 @@ The conference registration fee, and the exact location, have yet to be decided.
 - [Jonathan Sterne](https://www.mcgill.ca/ahcs/people-contacts/faculty/sterne) (University of McGill, Canada)
 - [Rujing Stacy Huang](https://www.rujingstacyhuang.com/) (The University of Hong Kong, Hong Kong)
 - [Ollie Bown](https://www.unsw.edu.au/staff/oliver-bown) (UNSW Sydney, Australia)
+
+# Archive
+## Call for presentations, panels and workshops
+We are seeking presentations, panels and workshops for the conference. Each presentation will be given 20 minutes in a session, and each session will conclude with a podium discussion of its presented works. Each panel will have 3-5 participants, and last at least 60 minutes with audience discussion. A workshop consists of two hours of directed work and discussion around a topic. To submit a presentation, please write an abstract of no more than 300 words about your work and how it relates to the core themes of the conference. For panels, please write a description of the topics to be discussed and composition of the panel. For workshops, please write a description of the topics to be worked with, a schedule, and information on the workshop leaders. Email these to aimusicstudies2024@kth.se by the date below.
+
+## Dates
+- Presentation/Panel/Workshop Submission: March 28 2024
+- Decision Notification: April 26 2024
+- Early Conference Registration: August 30 2024
