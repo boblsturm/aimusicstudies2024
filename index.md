@@ -36,34 +36,34 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 
 
 ## Accepted papers
-Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
-Enongo Lumumba-Kasongo: Blacksound and AI: Exploring Hip-Hop Technofutures
-Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
-Calvin Peck:	AI, Copyright Law, and Musical Modernism’s Authorial Collapse
-Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
-Veronika Muchitsch:	“I Wanna Be Software”. Methodological and theoretical considerations of AI voice software in popular music
-Marilia Santos, Ivan Simurra:	Music, Humans, and Machines: Reflections on Collaborative Processes Between Humans and Machines for Artistic and Cultural Interventions with Brazilian Music
-Artemi-Maria Gioti:	The Musical Aesthetics of Machine Learning
-Kate Mancey:	“Feels Icky”: Analysing vernacular understanding of music-AI through The Beatles’ “Now and Then”
-Liam Pram, Fabio Morreale:	Accessing Musical Creativity: Embedded Ideologies in Generative-AI Music Tools
-Oliver Bown:	Computational Creativity Meets the Commercial Creative AI Revolution
-Nicola Privato:	AI Hauntology and the Hauntographic Method
-Emily Hansell Clark:	How AI Hears Musical Difference: A Critical Epistemological Approach to AI-Generated “Traditional” and “World” Music
-Yiren Zhao:	Rethinking “authenticity” in AI-generated metal music: A musicological perspective
-Craig Vear, Fabrizio Poltronieri:	Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity.
-Steve Benford, Marco Amerotti, Bob L. T. Sturm and Craig Vear: Performing with AI as a Practice-led Methodology for AI Music
-Alex Rehding:	J.S. Bach, Musicology/Music Theory, and AI: Convergences and Divergences Between Disciplines
-G Douglas Barrett:	The Last Invention: AI and Recursion in Yasunao Tone’s AI Deviation
-Ravi Krishnaswami and Michael Clemens:	Building My Replacement: Experimental Methods in Evaluating Generative Music Systems
-Michèle Duguay and Johanna Devaney:	Representations of Gender and Voice in Music Language Models and Datasets: A Critical Examination of the Gender Binary in MusicLM and MusicCaps
-Alexandra Huang-Kokina:	Artificial ‘Emotional’ Intelligence: AI perspectives on multimodal emotional transmediation in contemporary science-fiction opera
-Nico Daleman:	Sound Art Installation and Artificial Intelligence
-Ritwik Banerji:	Breaking the Monolith of Performative Humanness
-Matthew Blackmar:	Vocal Deepfakes and The New Rhetorical Strategies of The Online Copyright Debate: "Clean" Data, Content "Creators," and Popular-Music Participatory Cultures in The Era of AI
-Mattia Merlini:	From AI to 4E: A Reflective Turn in Musicology to Overcome Dualist, Romantic and Cognitivist Prejudices
-Qianyi Sun and Claire Arthur:	An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics
-Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
-Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
+- Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
+- Enongo Lumumba-Kasongo: Blacksound and AI: Exploring Hip-Hop Technofutures
+- Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
+- Calvin Peck:	AI, Copyright Law, and Musical Modernism’s Authorial Collapse
+- Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
+- Veronika Muchitsch:	“I Wanna Be Software”. Methodological and theoretical considerations of AI voice software in popular music
+- Marilia Santos, Ivan Simurra:	Music, Humans, and Machines: Reflections on Collaborative Processes Between Humans and Machines for Artistic and Cultural Interventions with Brazilian Music
+- Artemi-Maria Gioti:	The Musical Aesthetics of Machine Learning
+- Kate Mancey:	“Feels Icky”: Analysing vernacular understanding of music-AI through The Beatles’ “Now and Then”
+- Liam Pram, Fabio Morreale:	Accessing Musical Creativity: Embedded Ideologies in Generative-AI Music Tools
+- Oliver Bown:	Computational Creativity Meets the Commercial Creative AI Revolution
+- Nicola Privato:	AI Hauntology and the Hauntographic Method
+- Emily Hansell Clark:	How AI Hears Musical Difference: A Critical Epistemological Approach to AI-Generated “Traditional” and “World” Music
+- Yiren Zhao:	Rethinking “authenticity” in AI-generated metal music: A musicological perspective
+- Craig Vear, Fabrizio Poltronieri:	Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity.
+- Steve Benford, Marco Amerotti, Bob L. T. Sturm and Craig Vear: Performing with AI as a Practice-led Methodology for AI Music
+- Alex Rehding:	J.S. Bach, Musicology/Music Theory, and AI: Convergences and Divergences Between Disciplines
+- G Douglas Barrett:	The Last Invention: AI and Recursion in Yasunao Tone’s AI Deviation
+- Ravi Krishnaswami and Michael Clemens:	Building My Replacement: Experimental Methods in Evaluating Generative Music Systems
+- Michèle Duguay and Johanna Devaney:	Representations of Gender and Voice in Music Language Models and Datasets: A Critical Examination of the Gender Binary in MusicLM and MusicCaps
+- Alexandra Huang-Kokina:	Artificial ‘Emotional’ Intelligence: AI perspectives on multimodal emotional transmediation in contemporary science-fiction opera
+- Nico Daleman:	Sound Art Installation and Artificial Intelligence
+- Ritwik Banerji:	Breaking the Monolith of Performative Humanness
+- Matthew Blackmar:	Vocal Deepfakes and The New Rhetorical Strategies of The Online Copyright Debate: "Clean" Data, Content "Creators," and Popular-Music Participatory Cultures in The Era of AI
+- Mattia Merlini:	From AI to 4E: A Reflective Turn in Musicology to Overcome Dualist, Romantic and Cognitivist Prejudices
+- Qianyi Sun and Claire Arthur:	An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics
+- Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
+- Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
 
 ## Conference registration
 Coming soon
