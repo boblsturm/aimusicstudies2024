@@ -66,7 +66,9 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 - Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
 
 ## Conference registration
-Coming soon
+[Link](https://axacoair.se/go?JtOC05Fa)
+Early registration (up to Aug 30 2024): 2000 SEK + 750 SEK for conference dinner
+Late registration: 3000 SEK + 750 SEK for conference dinner
 
 ## Other information
 Please send questions or comments to aimusicstudies2024@kth.se.
