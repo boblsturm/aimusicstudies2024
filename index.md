@@ -64,6 +64,7 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 - Qianyi Sun and Claire Arthur:	An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics
 - Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
 - Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
+- Paula Harper, Leaks, Scams, Shams: AI and Musical Misinformation
 
 ## Conference registration
 [Link](https://axacoair.se/go?JtOC05Fa)
