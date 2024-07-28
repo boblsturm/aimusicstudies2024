@@ -95,6 +95,7 @@ Please send questions or comments to aimusicstudies2024@kth.se.
 - [Jonathan Sterne](https://www.mcgill.ca/ahcs/people-contacts/faculty/sterne) (University of McGill, Canada)
 - [Rujing Stacy Huang](https://www.rujingstacyhuang.com/) (The University of Hong Kong, Hong Kong)
 - [Ollie Bown](https://www.unsw.edu.au/staff/oliver-bown) (UNSW Sydney, Australia)
+- [Craig Vear](https://www.nottingham.ac.uk/humanities/departments/music/people/craig.vear) (University of Nottingham, UK)
 
 # Archive
 ## Call for presentations, panels and workshops
