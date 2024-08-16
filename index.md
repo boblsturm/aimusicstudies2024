@@ -35,11 +35,10 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 <img width="757" alt="AIMS2024" src="https://github.com/boblsturm/aimusicstudies2024/assets/10271332/2940e3f2-fb21-48f3-b7fc-29556eac41c1">
 
 ## Accepted panel
-- "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, and Georgina Born
+- "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
 - 
 ## Accepted papers
 - Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
-- Enongo Lumumba-Kasongo: Blacksound and AI: Exploring Hip-Hop Technofutures
 - Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
 - Calvin Peck:	AI, Copyright Law, and Musical Modernism’s Authorial Collapse
 - Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
