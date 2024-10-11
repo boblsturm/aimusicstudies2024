@@ -68,9 +68,7 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 - Paula Harper, Leaks, Scams, Shams: AI and Musical Misinformation
 
 ## Conference registration
-[Link](https://axacoair.se/go?JtOC05Fa)
-Early registration (up to Aug 30 2024): 2000 SEK + 750 SEK for conference dinner
-Late registration: 3000 SEK + 750 SEK for conference dinner
+Registration is now closed.
 
 ## Other information
 Please send questions or comments to aimusicstudies2024@kth.se.
