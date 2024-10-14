@@ -32,7 +32,8 @@ Financial support for the conference comes from:
 The keynote speaker of the first conference is Dr. [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born), Professor of Anthropology and Music at University College London.
 
 ## Schedule
-<img width="757" alt="AIMS2024" src="https://github.com/boblsturm/aimusicstudies2024/assets/10271332/2940e3f2-fb21-48f3-b7fc-29556eac41c1">
+<img width="457" alt="Screenshot 2024-10-14 at 06 40 17" src="https://github.com/user-attachments/assets/5f3c0740-7587-4906-8ecd-443e9309d537">
+
 
 ## Accepted panel
 - "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
