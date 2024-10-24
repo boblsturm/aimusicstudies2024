@@ -39,7 +39,7 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 
 ## Accepted panel
 - "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
-- 
+
 ## Accepted papers
 - Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
 - Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
@@ -71,7 +71,7 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 - Paula Harper, Leaks, Scams, Shams: AI and Musical Misinformation
 
 ## Conference registration
-Registration is now closed.
+We have reached maximum capacity, so registration is now closed.
 
 ## Other information
 Please send questions or comments to aimusicstudies2024@kth.se.
