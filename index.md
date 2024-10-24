@@ -2,7 +2,8 @@
 ## December 10-12 2024 Stockholm, Sweden
 ## Location: [Stallet](https://www.stallet.st/en) Stallgatan 7, Stockholm (T) Kungsträdgården
 
-<img src="https://i0.wp.com/www.kth.se/blogs/studentblog/files/2021/01/20210129_100335.jpg?w=1200&ssl=1" alt="KTH in the snow" style="width: 700px"/>
+<img width="750" alt="Screenshot 2024-09-20 at 07 24 09" src="https://github.com/user-attachments/assets/e3770179-1799-4d3e-a42f-88bd2973bc53">
+
 
 ## Prospects, Challenges and Methodologies of Studying AI Music in the Humanities and Social Sciences
 
