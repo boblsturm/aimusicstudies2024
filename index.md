@@ -39,7 +39,8 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 ## Schedule
 <img width="457" alt="Screenshot 2024-10-14 at 06 40 17" src="https://github.com/user-attachments/assets/5f3c0740-7587-4906-8ecd-443e9309d537">
 
-[Detailed Schedule (pdf)](https://github.com/user-attachments/files/17632622/AI.Music.Studies.sessions.2024.pdf)
+[Detailed Schedule (pdf)](https://github.com/user-attachments/files/17632827/AIMS2024programme.pdf)
+
 
 ## Accepted panel
 - "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
