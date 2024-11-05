@@ -62,7 +62,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Craig Vear, Fabrizio Poltronieri:	Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity.
 - Steve Benford, Marco Amerotti, Bob L. T. Sturm and Craig Vear: Performing with AI as a Practice-led Methodology for AI Music
 - Alex Rehding:	J.S. Bach, Musicology/Music Theory, and AI: Convergences and Divergences Between Disciplines
-- G Douglas Barrett:	The Last Invention: AI and Recursion in Yasunao Tone’s AI Deviation
+- G Douglas Barrett: The Last Invention: AI and Recursion in Yasunao Tone’s AI Deviation
 - Ravi Krishnaswami and Michael Clemens:	Building My Replacement: Experimental Methods in Evaluating Generative Music Systems
 - Michèle Duguay and Johanna Devaney:	Representations of Gender and Voice in Music Language Models and Datasets: A Critical Examination of the Gender Binary in MusicLM and MusicCaps
 - Alexandra Huang-Kokina:	Artificial ‘Emotional’ Intelligence: AI perspectives on multimodal emotional transmediation in contemporary science-fiction opera
@@ -73,7 +73,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Qianyi Sun and Claire Arthur:	An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics
 - Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
 - Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
-- Paula Harper, Leaks, Scams, Shams: AI and Musical Misinformation
+- Paula Harper: Leaks, Scams, Shams: AI and Musical Misinformation
 
 ## Conference registration
 We have reached maximum capacity, so registration is now closed.
