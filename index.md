@@ -46,7 +46,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
 
 ## Accepted papers
-- Nick Collins, Mick Grieson: Avoiding an AI-imposed Taylor's Version of all music history
+- Nick Collins, Mick Grierson: Avoiding an AI-imposed Taylor's Version of all music history
 - Ken Déguernel, Petter Ericson, Babtiste Bacot:	Music Generative Ai as a pharmakon
 - Calvin Peck:	AI, Copyright Law, and Musical Modernism’s Authorial Collapse
 - Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
