@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ff764a85-a552-4268-a237-b52f3fa42250" height="200">
+<img src="https://github.com/user-attachments/assets/ff764a85-a552-4268-a237-b52f3fa42250" height="150">
 
 
 # The First International Conference in AI Music Studies 
