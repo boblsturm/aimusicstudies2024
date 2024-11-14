@@ -39,7 +39,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 ## Schedule
 <img width="457" alt="Screenshot 2024-10-14 at 06 40 17" src="https://github.com/user-attachments/assets/5f3c0740-7587-4906-8ecd-443e9309d537">
 
-[Detailed Schedule (pdf)](https://github.com/user-attachments/files/17644163/AIMC2024_programme.pdf)
+[Detailed Schedule (Google Doc)]([https://github.com/user-attachments/files/17644163/AIMC2024_programme.pdf](https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?usp=sharing))
 
 
 ## Accepted panel
@@ -52,7 +52,6 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Emmie Head:	Composing Capital and the Commodification of Copyright in Generative AI Models
 - Veronika Muchitsch:	“I Wanna Be Software”. Methodological and theoretical considerations of AI voice software in popular music
 - Marilia Santos, Ivan Simurra:	Music, Humans, and Machines: Reflections on Collaborative Processes Between Humans and Machines for Artistic and Cultural Interventions with Brazilian Music
-- Artemi-Maria Gioti:	The Musical Aesthetics of Machine Learning
 - Kate Mancey:	“Feels Icky”: Analysing vernacular understanding of music-AI through The Beatles’ “Now and Then”
 - Liam Pram, Fabio Morreale:	Accessing Musical Creativity: Embedded Ideologies in Generative-AI Music Tools
 - Oliver Bown:	Computational Creativity Meets the Commercial Creative AI Revolution
