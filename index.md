@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/ff764a85-a552-4268-a237-b52f3fa42250)
+
 # The First International Conference in AI Music Studies 
 ## December 10-12 2024 Stockholm, Sweden
 ## Location: [Stallet](https://www.stallet.st/en) Stallgatan 7, Stockholm (T) Kungsträdgården
