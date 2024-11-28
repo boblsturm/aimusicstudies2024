@@ -76,7 +76,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Paula Harper: Leaks, Scams, Shams: AI and Musical Misinformation
 
 ## Conference registration
-We have reached maximum capacity, so registration is now closed.
+Registration is now closed for attending in person because we have reached maximum capacity. Registration for online attendance to the zoom stream is open (500 SEK): https://axacoair.se/go?o3JJnuLr
 
 ## Other information
 Please send questions or comments to aimusicstudies2024@kth.se.
