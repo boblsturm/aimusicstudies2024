@@ -30,6 +30,9 @@ Financial support for the conference comes from:
 2. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
 3. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
 
+## Conference registration
+Registration is now closed for attending in person because we have reached maximum capacity. Registration for online attendance to the zoom stream is open (500 SEK): https://axacoair.se/go?o3JJnuLr
+
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
 
@@ -74,9 +77,6 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
 - Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
 - Paula Harper: Leaks, Scams, Shams: AI and Musical Misinformation
-
-## Conference registration
-Registration is now closed for attending in person because we have reached maximum capacity. Registration for online attendance to the zoom stream is open (500 SEK): https://axacoair.se/go?o3JJnuLr
 
 ## Other information
 Please send questions or comments to aimusicstudies2024@kth.se.
