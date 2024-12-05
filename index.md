@@ -54,11 +54,11 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 [AI Music Studies at KMH](https://www.kmh.se/in-english/concerts--events/all/ai-music-studies-.html)
 1. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Sky Shanties (Laura Cros Vila)
 2. "Adaptive Elusion" by Palle Dahlstedt for piano and electronics
-3. AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: K I L L J E S T E R (Ken Déguernel)
+3. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: K I L L J E S T E R (Ken Déguernel)
 4. "ÎmPACarE" by Catalina Popa-Mörck for flute, voice and AI-generated interactive improvisation (Somax2)
-5. AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Xenomusic 1, 4, 13 (Nick Collins)
+5. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Xenomusic 1, 4, 13 (Nick Collins)
 6. "Stilla Liv" by Reine Jönsson for piano performed by Love Derwinger
-7. AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Service religieux célébrant Saint-Isidore de Séville (extrait) (Bob L. T. Sturm)
+7. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Service religieux célébrant Saint-Isidore de Séville (extrait) (Bob L. T. Sturm)
 8. "The Odd Couple - Human & AI Making Music in the Moment" for piano and AI improvisor performed by David Dolan and Oded Ben-Tal
 
 ## Accepted panel
