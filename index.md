@@ -54,9 +54,7 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 
 [Detailed Schedule (Google Doc)](https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?usp=sharing)
 
-## Concert 
-
-[AI Music Studies at KMH](https://www.kmh.se/in-english/concerts--events/all/ai-music-studies-.html)
+## Concert [AI Music Studies at KMH](https://www.kmh.se/in-english/concerts--events/all/ai-music-studies-.html)
 1. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Sky Shanties (Laura Cros Vila)
 2. "Adaptive Elusion" by Palle Dahlstedt for piano and electronics
 3. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: K I L L J E S T E R (Ken Déguernel)
