@@ -30,6 +30,11 @@ Financial support for the conference comes from:
 2. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
 3. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
 
+## Quick links
+[Detailed Schedule (Google Doc)](https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?usp=sharing)
+[Book of Abstracts (Google Doc)](https://docs.google.com/document/d/1tkwnypVQ6EKNPcQjAQrJ4J_a1v3Yqct1IJKHsMkbJUc/edit?tab=t.0#heading=h.ofrsef5xddux)
+
+
 ## Conference registration
 Registration is now closed for attending in person because we have reached maximum capacity. Registration for online attendance to the zoom stream is open (500 SEK): https://axacoair.se/go?o3JJnuLr
 
