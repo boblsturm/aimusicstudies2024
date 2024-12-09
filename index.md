@@ -36,7 +36,7 @@ Financial support for the conference comes from:
 
 
 ## Conference registration
-Registration is now closed for attending in person because we have reached maximum capacity. Registration for online attendance to the zoom stream is open (500 SEK): https://axacoair.se/go?o3JJnuLr
+Registration is now closed.
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
