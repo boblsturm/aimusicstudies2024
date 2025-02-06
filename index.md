@@ -30,13 +30,8 @@ Financial support for the conference comes from:
 2. [Kungliga Musikaliska Akademien](https://www.musikaliskaakademien.se)
 3. ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://musaiclab.wordpress.com)
 
-## Quick links
-- [Detailed Schedule (Google Doc)](https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?usp=sharing)
-- [Book of Abstracts (Google Doc)](https://docs.google.com/document/d/1tkwnypVQ6EKNPcQjAQrJ4J_a1v3Yqct1IJKHsMkbJUc/edit?tab=t.0#heading=h.ofrsef5xddux)
-- [Concert at KMH](https://www.kmh.se/in-english/concerts--events/all/ai-music-studies-.html) on December 11, 20h. 
-
-## Conference registration
-Registration is now closed.
+## Proceedings
+- [Collected Materials of The First International Conference in AI Music Studies: Prospects, Challenges and Methodologies of Studying AI Music in the Humanities and Social Sciences](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1933134&dswid=5587) ISBN: 978-91-531-3542-5
 
 ## Keynote Speaker
 <img src="https://www.ae-info.org/attach/User/Born_Georgina/Born_Georgina.jpg" alt="Professor Georgina Born" style="height: 300px"/>
@@ -47,11 +42,6 @@ The keynote speaker of the first conference is Dr. [Georgina Born](https://profi
 
 _Abstract_: This First International Conference in AI Music Studies aims to inaugurate a new field. It is accompanied by a paper asking: ‘is a new kind of music studies needed’ to analyse AI music? These initiatives raise not only what impact AI is having on music, but how music changes the way we think about AI. In this synoptic keynote I pursue these questions, taking three angles on the challenges posed by AI to music and music to AI, each condensing wider realms of debate. Rather than start afresh, I follow classical media theory in breaking down the communicative process into three analytical moments: creation or production; curation and reception; and the question of the object itself, AI-mediated music. Each such moment of AI music has drawn attention and concern, though the effect can be a fragmentation of perspective, a becoming-stuck in particular sets of issues – something the interdisciplinarity of AI studies has not impeded. One of the less discussed yet major dimensions of human life put on the agenda by AI music is aesthetics: aesthetics as a feature of musical creativity and imagination that comes immanently to be vested in the musical object – performance, work, track or ‘song’; and aesthetics as a quality of musical reception. Thus, if the global debates on AI have been transfixed by ethics, then AI music studies bring to the table an urgent and transformative concern with aesthetics and, more broadly, expressive cultures. A focus on aesthetics and creativity, however, means also addressing the conditions that bear on them, posing the imperative to overcome the gap between, say, analyses of the political ecology and political economy of AI and their effects on musical experience. In this light, my lecture will proceed by examining: in relation to creation and production, questions of aesthetic value and of vernacular creativity; in relation to curation and reception, recommendation, personalization and the shaping of aesthetic subjectivities; and in relation to the object itself, how AI is propelling the evolution of music’s ontologies. Among the writers with whom the lecture will be in dialogue are Hayles’s (2017) idea of the cognitive nonconscious, Prey’s (2017), and Lury and Day’s (2019) accounts of personalization and recommendation, and Wilf’s (2023) portrayal of computational creativity in jazz. To found a field of AI music studies, I suggest, necessitates taking stock synoptically in this kind of way, utilising the rich critical resources of the humanities and social sciences to probe the speculative leaps of technology and discourse that otherwise go unchallenged. But equally, it means holding up paradigms from the social sciences and humanities forged in earlier mediatised eras and retuning them for the AI music present.
 
-## Schedule
-
-- [Detailed Schedule (Google Doc)](https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?usp=sharing)
-- [Book of Abstracts (Google Doc)](https://docs.google.com/document/d/1tkwnypVQ6EKNPcQjAQrJ4J_a1v3Yqct1IJKHsMkbJUc/edit?tab=t.0#heading=h.ofrsef5xddux)
-
 ## Concert [AI Music Studies at KMH](https://www.kmh.se/in-english/concerts--events/all/ai-music-studies-.html)
 1. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Sky Shanties (Laura Cros Vila)
 2. "Adaptive Elusion" by Palle Dahlstedt for piano and electronics
@@ -61,6 +51,36 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 6. "Stilla Liv" by Reine Jönsson for piano performed by Love Derwinger
 7. [AIMGC 2023](https://github.com/boblsturm/aimusicgenerationchallenge2023) Submission: Service religieux célébrant Saint-Isidore de Séville (extrait) (Bob L. T. Sturm)
 8. "The Odd Couple - Human & AI Making Music in the Moment" for piano and AI improvisor performed by David Dolan and Oded Ben-Tal
+
+## Organising Committee
+- [Bob L. T. Sturm](https://www.kth.se/profile/bobs) (KTH, Stockholm), chair
+- [Elin Kanhov](https://www.kth.se/profile/ekanhov) (KTH, Stockholm)
+- [André Holzapfel](https://www.kth.se/profile/holzap) (KTH, Stockholm)
+
+## Steering Committee
+- [Toivo Burlin](https://www.su.se/profiles/tobu0831-1.196072) (Stockholm University)
+- [Jan-Olof Gullö](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=Jan-Olof+Gull%C3%B6&id=400.51f5bb6415ecf8601e7dd9f4) (KMH, Stockholm)
+- [Hans Lindetorp](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=&id=400.51f5bb6415ecf8601e7dd9bc) (KMH, Stockholm)
+- [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born) (University College London, UK)
+- [Oded Ben-Tal](https://www.kingston.ac.uk/staff/profile/dr-oded-ben-tal-592/) (Kingston University, UK)’
+- [Nick Collins](https://www.durham.ac.uk/staff/nick-collins/) (Durham University, UK)
+- [Ken Déguernel](https://deguernel.discordia.fr/) (Univ. Lille, CNRS, France)
+- [Martin Clancy](https://martinclancy.eu) (Centre for Digital Humanities, Trinity College Dublin, Ireland)
+- [Eric Drott](https://music.utexas.edu/about/people/eric-drott) (University of Texas, USA)
+- [Thomas Hodgson](https://schoolofmusic.ucla.edu/people/thomas-hodgson/) (University of California, Los Angeles, USA)
+- [Jonathan Sterne](https://www.mcgill.ca/ahcs/people-contacts/faculty/sterne) (University of McGill, Canada)
+- [Rujing Stacy Huang](https://www.rujingstacyhuang.com/) (The University of Hong Kong, Hong Kong)
+- [Ollie Bown](https://www.unsw.edu.au/staff/oliver-bown) (UNSW Sydney, Australia)
+- [Craig Vear](https://www.nottingham.ac.uk/humanities/departments/music/people/craig.vear) (University of Nottingham, UK)
+
+# Archive
+## Call for presentations, panels and workshops
+We are seeking presentations, panels and workshops for the conference. Each presentation will be given 20 minutes in a session, and each session will conclude with a podium discussion of its presented works. Each panel will have 3-5 participants, and last at least 60 minutes with audience discussion. A workshop consists of two hours of directed work and discussion around a topic. To submit a presentation, please write an abstract of no more than 300 words about your work and how it relates to the core themes of the conference. For panels, please write a description of the topics to be discussed and composition of the panel. For workshops, please write a description of the topics to be worked with, a schedule, and information on the workshop leaders. Email these to aimusicstudies2024@kth.se by the date below.
+
+## Dates
+- Presentation/Panel/Workshop Submission: March 28 2024
+- Decision Notification: April 26 2024
+- Early Conference Registration: August 30 2024
 
 ## Accepted panel
 - "How is copyright being challenged by the music ecosystem emerging around AI music", with Séverine Dusollier, Eric Drott, Anna-Kaisa Kaila, Ollie Bown and Georgina Born
@@ -93,36 +113,3 @@ _Abstract_: This First International Conference in AI Music Studies aims to inau
 - Landon Morrison and Andrew McPherson:	Critical (Post-)Humanist Perspectives on “Disentangled” Representations in AI Music
 - Elin Kanhov, Luca Casini, Bob L. T. Sturm:	An Ethnography of the Boomyverse
 - Paula Harper: Leaks, Scams, Shams: AI and Musical Misinformation
-
-## Other information
-Please send questions or comments to aimusicstudies2024@kth.se.
-
-## Organising Committee
-- [Bob L. T. Sturm](https://www.kth.se/profile/bobs) (KTH, Stockholm), chair
-- [Elin Kanhov](https://www.kth.se/profile/ekanhov) (KTH, Stockholm)
-- [André Holzapfel](https://www.kth.se/profile/holzap) (KTH, Stockholm)
-
-## Steering Committee
-- [Toivo Burlin](https://www.su.se/profiles/tobu0831-1.196072) (Stockholm University)
-- [Jan-Olof Gullö](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=Jan-Olof+Gull%C3%B6&id=400.51f5bb6415ecf8601e7dd9f4) (KMH, Stockholm)
-- [Hans Lindetorp](https://www.kmh.se/om-kmh/kontakta-oss/sok-person/profil.html?query=&id=400.51f5bb6415ecf8601e7dd9bc) (KMH, Stockholm)
-- [Georgina Born](https://profiles.ucl.ac.uk/15934-georgina-born) (University College London, UK)
-- [Oded Ben-Tal](https://www.kingston.ac.uk/staff/profile/dr-oded-ben-tal-592/) (Kingston University, UK)’
-- [Nick Collins](https://www.durham.ac.uk/staff/nick-collins/) (Durham University, UK)
-- [Ken Déguernel](https://deguernel.discordia.fr/) (Univ. Lille, CNRS, France)
-- [Martin Clancy](https://martinclancy.eu) (Centre for Digital Humanities, Trinity College Dublin, Ireland)
-- [Eric Drott](https://music.utexas.edu/about/people/eric-drott) (University of Texas, USA)
-- [Thomas Hodgson](https://schoolofmusic.ucla.edu/people/thomas-hodgson/) (University of California, Los Angeles, USA)
-- [Jonathan Sterne](https://www.mcgill.ca/ahcs/people-contacts/faculty/sterne) (University of McGill, Canada)
-- [Rujing Stacy Huang](https://www.rujingstacyhuang.com/) (The University of Hong Kong, Hong Kong)
-- [Ollie Bown](https://www.unsw.edu.au/staff/oliver-bown) (UNSW Sydney, Australia)
-- [Craig Vear](https://www.nottingham.ac.uk/humanities/departments/music/people/craig.vear) (University of Nottingham, UK)
-
-# Archive
-## Call for presentations, panels and workshops
-We are seeking presentations, panels and workshops for the conference. Each presentation will be given 20 minutes in a session, and each session will conclude with a podium discussion of its presented works. Each panel will have 3-5 participants, and last at least 60 minutes with audience discussion. A workshop consists of two hours of directed work and discussion around a topic. To submit a presentation, please write an abstract of no more than 300 words about your work and how it relates to the core themes of the conference. For panels, please write a description of the topics to be discussed and composition of the panel. For workshops, please write a description of the topics to be worked with, a schedule, and information on the workshop leaders. Email these to aimusicstudies2024@kth.se by the date below.
-
-## Dates
-- Presentation/Panel/Workshop Submission: March 28 2024
-- Decision Notification: April 26 2024
-- Early Conference Registration: August 30 2024
